@@ -1,0 +1,1 @@
+import"./DsnmJJEf.js";import{f as o,b as n,d as e,r as i}from"./D1bmT3Mv.js";import{s as p}from"./RLNcLwzf.js";var d=o('<div class="wrapper force-dark-theme svelte-1xy8tw3"><main class="main svelte-1xy8tw3"><!></main></div>');function f(s,t){var a=d(),r=e(a),m=e(r);p(m,()=>t.children),i(r),i(a),n(s,a)}export{f as M};

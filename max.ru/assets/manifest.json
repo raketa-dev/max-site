@@ -1,0 +1,15 @@
+{
+	"name": "MAX – быстрое и легкое приложение для общения",
+	"short_name": "MAX",
+	"icons": [
+		{
+			"src": "/favicon.ico",
+			"sizes": "16x16 32x32 48x64 64x64 128x128 256x256",
+			"type": "image/x-icon"
+		},
+		{
+			"src": "/favicon.png",
+			"type": "image/png"
+		}
+	]
+}
